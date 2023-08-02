@@ -23,7 +23,7 @@ function createBlob(){
 
     document.getElementById("blob").style.cssText = `border-radius: ${borderRadius}; height: ${blobHeight}px; width: ${blobWidth}px`;
 
-    outputCode.value = `border-radius: ${borderRadius};`
+    outputCode.value = `border-radius: ${borderRadius} width: ${blobWidth}px; height: ${blobHeight}px`
 }
 
 document.getElementById("copy").addEventListener("click", function(){
