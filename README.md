@@ -14,7 +14,7 @@ Projeyi yerel olarak çalıştırmak için aşağıdaki adımları takip edin:
 1. Depoyu klonlayın:
 
 ```bash
-git clone https://github.com/kullaniciadi/blob-generator.git
+git clone https://github.com/saruhanakbas/blob-generator
 ```
 
 2. Proje dizinine gidin:
