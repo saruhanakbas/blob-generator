@@ -1,6 +1,7 @@
 # Blob Generator
 
-![image](https://github.com/saruhanakbas/blob-generator/assets/126952556/ae7a0f02-9556-4914-b778-0be2a94ea4b9)
+![image](https://github.com/saruhanakbas/blob-generator/assets/126952556/686c9a1d-23a2-48ff-b473-5588af0e401c)
+
 
 Bu, HTML, CSS ve JavaScript kullanarak basit bir Blob (Sıvı Çıkıntı) üreteci projesidir. Kullanıcılar, özelleştirilebilir rastgele şekiller üretebilir ve bu çıkıntıları kendi projelerine ekleyebilirler.
 
