@@ -1,5 +1,7 @@
 # Blob Generator
 
+https://blobgeneratorr.netlify.app
+
 ![image](https://github.com/saruhanakbas/blob-generator/assets/126952556/686c9a1d-23a2-48ff-b473-5588af0e401c)
 
 
